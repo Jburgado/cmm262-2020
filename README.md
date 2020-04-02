@@ -16,12 +16,12 @@ Course website for CMM / BIOM 262  Winter 2020 - Quantitative Methods in Genetic
 |0 | Before 01/07/2020 | **Module 0: Pre-Class Setup**| You | [Module 0](https://github.com/biom262/cmm262-2020/tree/master/Module_0) | [Generate SSH Keys](https://github.com/biom262/cmm262-2020/blob/master/Module_0/0_Generate_Public_Private_key_mac.ipynb) |
 | 1 | 01/07/2020 | **Module 1: Intro to R and Python, RNA-seq** | Daniela Nachmanson | [Module 1](https://github.com/biom262/cmm262-2020/tree/master/Module_1) | [RNA-Seq Analysis](https://github.com/biom262/cmm262-2020/tree/master/Module_1/Homeworks/Homework1.pdf) |
 | 2 | 01/14/2020 | **Module 2: Unix, TSCC, RNA-seq** | Daniela Nachmanson | [Module 2](https://github.com/biom262/cmm262-2020/tree/master/Module_2) | None |
-| 3 | 01/21/2020 | **Module 3: Statistics** | Scott Rifkin | [Module 3](https://github.com/biom262/cmm262-2020/tree/master/Module_3) | TBA |
-| 4 | 01/28/2020 | **Module 4: Single Cell Analysis** | Robert Morey | TBA | None |
-| 5 | 02/04/2020 | **Module 5: ChIP-seq & chromatin** | Alon Goren | TBA | TBA |
-| 6 | 02/11/2020 | **Module 6: GSEA** | Pablo Tamayo <br> William Kim | TBA | None |
-| 7 | 02/18/2020 | **Module 7: Networks** | Hannah Carter | TBA | TBA |
-| 8 | 02/25/2020 | **Module 8: GWAS** | Graham McVicker | TBA | None |
-| 9 | 03/03/2020 | **Module 9: Variant Calling** | Olivier Harismendy | TBA | TBA |
+| 3 | 01/21/2020 | **Module 3: Statistics** | Scott Rifkin | [Module 3](https://github.com/biom262/cmm262-2020/tree/master/Module_3) | [Statistics PDF](https://github.com/biom262/cmm262-2020/tree/master/Module_3/Homeworks/BIOM262_Homework2_2020.pdf), [Statistics DOCX](https://github.com/biom262/cmm262-2020/tree/master/Module_3/Homeworks/BIOM262_Homework2_2020.docx) |
+| 4 | 01/28/2020 | **Module 4: Single Cell Analysis** | Robert Morey | [Module 4](https://github.com/biom262/cmm262-2020/tree/master/Module_4) | None |
+| 5 | 02/04/2020 | **Module 5: ChIP-seq & chromatin** | Alon Goren | [Module 5](https://github.com/biom262/cmm262-2020/tree/master/Module_5) | None |
+| 6 | 02/11/2020 | **Module 6: GSEA** | Pablo Tamayo <br> William Kim | [Module 6](https://github.com/biom262/cmm262-2020/tree/master/Module_6) | None |
+| 7 | 02/18/2020 | **Module 7: Networks** | Hannah Carter | [Module 7](https://github.com/biom262/cmm262-2020/tree/master/Module_7) | TBA |
+| 8 | 02/25/2020 | **Module 8: GWAS** | Graham McVicker | [Module 8](https://github.com/biom262/cmm262-2020/tree/master/Module_8) | None |
+| 9 | 03/03/2020 | **Module 9: Variant Calling** | Olivier Harismendy | [Module 9](https://github.com/biom262/cmm262-2020/tree/master/Module_9) | TBA |
 | 10 | 03/10/2020 | **Module 10: Population Genetics** | Nicholas Schork <br> Ondrej Libiger | TBA | None |
 |-| 03/17/2020 | **Office hours for take home final**| TAs  | TBA | None | 
